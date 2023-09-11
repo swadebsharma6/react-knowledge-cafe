@@ -1,8 +1,8 @@
 import React from 'react';
 import { FaBookmark } from 'react-icons/fa';
 
-const Blog = ({blog, handleAddToBookMark}) => {
-    console.log(blog)
+const Blog = ({blog, handleAddToBookMark, handleMarkAsRead}) => {
+    // console.log(blog)
     const {id, title,cover_img, author_name, author_img, posted_date,
       hashtags,   reading_time} = blog;
     return (
@@ -30,6 +30,9 @@ const Blog = ({blog, handleAddToBookMark}) => {
             hashtags.map((hash, idx) => <span key={idx}> <a href="">#{hash}</a></span> )
            }
            </h4>
+           <div className='my-5'>
+           <button onClick={()=>handleMarkAsRead(reading_time)} className='text-blue-600 font-bold underline'>Mark as Read</button>
+           </div>
         </div>
     );
 };
