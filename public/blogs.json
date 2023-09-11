@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://img.freepik.com/free-vector/flat-design-minimal-technology-facebook-cover_23-2149146030.jpg?w=996&t=st=1694450605~exp=1694451205~hmac=ab6d0e530862c2290746db7b2b411ca4ac768ec4cc600a604a73327111279c8c",
+    "title": "The Art of Programming",
+    "author_name": "John Smith",
+    "author_img": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "posted_date": "2023-09-10",
+    "reading_time": 10,
+    "hashtags": ["programming", "coding", "software"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://img.freepik.com/free-psd/influencer-facebook-ad-template-design_23-2149581354.jpg?w=1380&t=st=1694450630~exp=1694451230~hmac=de3e196966049122e6b1e5cbf20a1b6dd5b81146ef248f4414a59e996be93e0d",
+    "title": "Cooking with Chef Lisa",
+    "author_name": "Lisa Johnson",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "posted_date": "2023-09-09",
+    "reading_time": 15,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://img.freepik.com/free-psd/autumn-template-design_23-2150608979.jpg?size=626&ext=jpg&uid=R107881585&ga=GA1.2.792085086.1691778009&semt=ais",
+    "title": "Exploring the Wilderness",
+    "author_name": "Emily Davis",
+    "author_img": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+    "posted_date": "2023-09-08",
+    "reading_time": 12,
+    "hashtags": ["nature", "adventure", "outdoors"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://img.freepik.com/free-vector/gradient-business-template-design_23-2149755875.jpg?w=900&t=st=1694450669~exp=1694451269~hmac=e4d713c59de64ee4ae406a448dca242deeab74a456716e728a5f41a250bf9c5d",
+    "title": "Financial Planning 101",
+    "author_name": "Michael Johnson",
+    "author_img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29ufGVufDB8MXwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "posted_date": "2023-09-07",
+    "reading_time": 8,
+    "hashtags": ["finance", "money", "investment"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://img.freepik.com/free-vector/simple-company-office-blog-header_23-2149367951.jpg?w=900&t=st=1694450689~exp=1694451289~hmac=537f0e82d2bd5cc49b05b75286d4f069f53e1986acf0e37e1b5994020b7e07ed",
+    "title": "Health and Wellness Tips",
+    "author_name": "Sarah Miller",
+    "author_img": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "posted_date": "2023-09-06",
+    "reading_time": 10,
+    "hashtags": ["health", "wellness", "fitness"]
+  },
+  {
+    "id": 6,
+    "cover_img": "https://img.freepik.com/premium-vector/corporate-vector-facebook-cover-linkedin-cover-template_681525-50.jpg?w=900",
+    "title": "Traveling on a Budget",
+    "author_name": "David Wilson",
+    "author_img": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "posted_date": "2023-09-05",
+    "reading_time": 14,
+    "hashtags": ["travel", "budget", "adventure"]
+  }
+]
